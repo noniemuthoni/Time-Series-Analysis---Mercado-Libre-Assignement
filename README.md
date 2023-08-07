@@ -1,2 +1,2 @@
-# Time-Series-Analysis---Mercado-Libre-Assignement
+# Time-Series-Analysis---Mercado-Libre-Assignment
 Mercado Libre assignment
